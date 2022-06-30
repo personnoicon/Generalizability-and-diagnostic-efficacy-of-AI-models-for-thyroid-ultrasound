@@ -14,12 +14,12 @@ A example of dataset folder and json file as followed:
 
 ```
 datasets
-├── 0a2c277925509608ca997d9f2880214dce4f3e81
-|   |--0a2c277925509608ca997d9f2880214dce4f3e81_A001_BModeH.jpg
-|   |--0a2c277925509608ca997d9f2880214dce4f3e81_A001_BModeZ.jpg
-├── 0a38ecbd4b5adf2129efff1d8b37b0813dca6fad
-|   |--0a38ecbd4b5adf2129efff1d8b37b0813dca6fad_A001_BModeH.jpg
-|   |--0a38ecbd4b5adf2129efff1d8b37b0813dca6fad_A001_BModeZ.jpg
+├── 000001
+|   |--000001_BModeH.jpg
+|   |--000001_BModeZ.jpg
+├── 000002
+|   |--000002_BModeH.jpg
+|   |--000002_BModeZ.jpg
 ├── *****
 |   |--********.jpg
 |   |--********.jpg
@@ -27,10 +27,10 @@ datasets
 ```
 json file contents
 
-{"samples": [{"image_name": "datasets/acc48d6cfff1c72e782227e9d01b2838e14e2eba/000002.jpg", "image_labels": ["malignant"]}, 
-{"image_name": "datasets/acc48d6cfff1c72e782227e9d01b2838e14e2eba/000001.jpg", "image_labels": ["malignant"]}, 
-{"image_name": "datasets/bcfb2b2d043c861675ee0ea9265a85a23dfbb9fb/FU_LIANG_MING_20190910094900_0951370.jpg", "image_labels": ["benign"]},
-{"image_name": "datasets/bcfb2b2d043c861675ee0ea9265a85a23dfbb9fb/FU_LIANG_MING_20190910094900_0951280.jpg", "image_labels": ["benign"]},
+{"samples": [{"image_name": "datasets/000001/000001_BModeH.jpg", "image_labels": ["malignant"]}, 
+{"image_name": "datasets/000001/000001_BModeZ.jpg", "image_labels": ["malignant"]}, 
+{"image_name": "datasets/000002/000002_BModeH.jpg", "image_labels": ["benign"]},
+{"image_name": "datasets/000002/000002_BModeZ.jpg", "image_labels": ["benign"]},
 .............], "labels": ["malignant"]}
 ```
 
