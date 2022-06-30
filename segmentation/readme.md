@@ -40,4 +40,3 @@ You can validation and testing on the best model by:
 ```
 python predict_seg.py
 ```
-
