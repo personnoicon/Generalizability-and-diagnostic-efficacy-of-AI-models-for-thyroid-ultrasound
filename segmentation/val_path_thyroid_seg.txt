@@ -1,0 +1,2 @@
+./data/image/000008.jpg ./data/mask/000008.jpg
+./data/image/000009.jpg ./data/mask/000009.jpg

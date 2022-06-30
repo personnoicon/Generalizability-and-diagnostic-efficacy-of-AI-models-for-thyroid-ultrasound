@@ -1,0 +1,1 @@
+./data/image/000010.jpg ./data/mask/000010.jpg

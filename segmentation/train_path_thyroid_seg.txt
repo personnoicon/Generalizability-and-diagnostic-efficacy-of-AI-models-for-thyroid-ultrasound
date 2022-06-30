@@ -1,0 +1,7 @@
+./data/image/000001.jpg ./data/mask/000001.jpg
+./data/image/000002.jpg ./data/mask/000002.jpg
+./data/image/000003.jpg ./data/mask/000003.jpg
+./data/image/000004.jpg ./data/mask/000004.jpg
+./data/image/000005.jpg ./data/mask/000005.jpg
+./data/image/000006.jpg ./data/mask/000006.jpg
+./data/image/000007.jpg ./data/mask/000007.jpg
