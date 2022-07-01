@@ -1,0 +1,9 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: xxx/images/train  # 118k images
+val: xxx/images/val  # 5k images
+test: xxx/images/test  # 5k images
+
+# number of classes
+nc: 1
+
+names: ["Nodule"]

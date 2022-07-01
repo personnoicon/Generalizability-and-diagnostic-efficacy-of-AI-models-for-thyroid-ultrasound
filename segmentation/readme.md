@@ -1,6 +1,6 @@
 ## Setup
 ### Prerequisites
-- keras==2.4.3
+- keras==2.2.4
 - opencv-python==4.3.0
 - numpy
 - scipy
