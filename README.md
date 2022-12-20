@@ -13,6 +13,6 @@ This code accompanies the following publication:
 Generalizability and diagnostic efficacy of AI models for thyroid ultrasound
 WenWen Xu, ZiHan Mei, XiaoLin Gu, Yang Lu, Chi-Cheng Fu, RuiFang Zhang, Ying Gu, Xia Chen, XiaoMao Luo, Ning Li, BaoYan Bai, QiaoYing Li, JiPing Yan, Hong Zhai, Ling Guan, Bing Gong,  KeYang Zhao, Qu Fang, Chuan He, WeiWei Zhan, Ting Luo, HuiTing Zhang, YiJie Dong, XiaoHong Jia, JianQiao Zhou
 
-Radiology (In Press)
+Radiology (Under review)
 ```
 If you use this code in your publication, please cite this paper.
